@@ -1,2 +1,2 @@
 # bootcamp.test.2
-this is a test
+This is a testing repository for coding bootcamp
